@@ -1,0 +1,9 @@
+C:\新建文件夹\Projects 5\LockNewTest\LockNewTest\bin\Debug\LockNewTest.exe.config
+C:\新建文件夹\Projects 5\LockNewTest\LockNewTest\bin\Debug\LockNewTest.exe
+C:\新建文件夹\Projects 5\LockNewTest\LockNewTest\bin\Debug\LockNewTest.pdb
+C:\新建文件夹\Projects 5\LockNewTest\LockNewTest\obj\Debug\LockNewTest.csprojResolveAssemblyReference.cache
+C:\新建文件夹\Projects 5\LockNewTest\LockNewTest\obj\Debug\LockNewTest.Form1.resources
+C:\新建文件夹\Projects 5\LockNewTest\LockNewTest\obj\Debug\LockNewTest.Properties.Resources.resources
+C:\新建文件夹\Projects 5\LockNewTest\LockNewTest\obj\Debug\LockNewTest.csproj.GenerateResource.Cache
+C:\新建文件夹\Projects 5\LockNewTest\LockNewTest\obj\Debug\LockNewTest.exe
+C:\新建文件夹\Projects 5\LockNewTest\LockNewTest\obj\Debug\LockNewTest.pdb
